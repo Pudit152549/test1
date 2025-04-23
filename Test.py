@@ -7,3 +7,5 @@ print("Go")
 print("This is main")
 print("welcome")
 print("x+2")
+x=4
+print(x)
